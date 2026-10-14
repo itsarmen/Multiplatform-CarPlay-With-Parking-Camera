@@ -1,3 +1,5 @@
+<img width="1168" height="612" alt="image" src="https://github.com/user-attachments/assets/020ef13d-7a76-4c04-b7bc-25db62962680" />
+
 # Multiplatform CarPlay — With Parking Camera
 
 A desktop **car-infotainment** concept app built with Flutter. It presents a
@@ -9,9 +11,6 @@ camera** screens for a right-mirror feed and a rear/parking camera with
 > **Status: work in progress.** The shell, navigation, theming, live camera
 > preview and parking-line calibration are functional. Several sections
 > (map, radio, playlists, most settings pages) are still placeholders.
-
-![App screenshot](screenshot.png)
-
 ---
 
 ## Features
